@@ -8,3 +8,8 @@ C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.exe
 C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.pdb
 C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.exe
 C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.pdb
+C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.exe.manifest
+C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.application
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.TrustInfo.xml
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.exe.manifest
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.application
