@@ -1,0 +1,10 @@
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.csproj.AssemblyReference.cache
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.Form1.resources
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.Properties.Resources.resources
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.csproj.GenerateResource.cache
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.csproj.CoreCompileInputs.cache
+C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.exe.config
+C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.exe
+C:\Users\jleija\source\git\Tera\Tera\Tera\bin\Debug\Tera.pdb
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.exe
+C:\Users\jleija\source\git\Tera\Tera\Tera\obj\Debug\Tera.pdb
